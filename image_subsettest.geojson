@@ -1,0 +1,5 @@
+WKT,Longitude,Latitude,Description,Satellite,Orbit,Time_WST,Date,SatZenith,Confidence,Intensity,Receiving_Station
+"POINT (148.525 -27.265)","148.525","-27.265","Possible FHS",NOAA-19,"57415",03:01,"20200330","36.17","-1.00","-1.00",Alice Springs
+"POINT (148.535 -27.275)","148.535","-27.275","",NOAA-19,"57415",03:01,"20200330","36.10","-1.00","-1.00",Alice Springs
+"POINT (152.525 -28.355)","152.525","-28.355","Possible FHS",NOAA-19,"57415",03:01,"20200330","9.46","-1.00","-1.00",Alice Springs
+"POINT (152.535 -28.355)","152.535","-28.355","",NOAA-19,"57415",03:01,"20200330","9.39","-1.00","-1.00",Alice Springs
